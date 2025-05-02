@@ -1,0 +1,17 @@
+(copy_files
+ (alias runtest)
+ (files json/*))
+
+(test
+ (name test_model)
+ (libraries basecamp devkit lwt lwt.unix yojson)
+ (preprocess
+  (pps lwt_ppx))
+ (modules test_model))
+
+(executable
+ (public_name test_client)
+ (libraries basecamp devkit lwt lwt.unix melange-json-native yojson)
+ (preprocess
+  (pps lwt_ppx melange-json-native.ppx))
+ (modules test_client))

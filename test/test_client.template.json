@@ -1,0 +1,9 @@
+{
+  "organization_id": "Some number",
+  "client_id": "find this on https://launchpad.37signals.com/integrations",
+  "client_secret": "find this on https://launchpad.37signals.com/integrations",
+  "refresh_token": "Provided when you perform Oauth2 process",
+  "access_token": "Provided when you perform Oauth2 process",
+  "app_name": "ocaml-test-client",
+  "email": "fake@email.dev"
+}

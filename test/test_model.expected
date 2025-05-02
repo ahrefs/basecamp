@@ -1,0 +1,370 @@
+
+=============person.json===============
+{
+  "id": 1049715927,
+  "name": "Charles Koga",
+  "email_address": "charles@honchodesign.com",
+  "avatar_url": "https://3.basecamp-static.com/195539477/people/BAhpBNdkkT4=--6b5d8dd66434670c75d33036ca0fb8e13fa7be94/avatar?v=1",
+  "title": "Principal Solutions Technician",
+  "created_at": "2022-11-22T08:23:22.0660Z",
+  "updated_at": "2022-11-22T08:23:22.0660Z"
+}
+
+=============people.json===============
+[
+  {
+    "id": 12345,
+    "name": "Test User 1",
+    "email_address": "test1@example.com",
+    "avatar_url": "https://example.com/avatar1.jpg",
+    "title": "Developer",
+    "created_at": "2022-01-01T12:00:00.0000Z",
+    "updated_at": "2022-01-02T12:00:00.0000Z"
+  },
+  {
+    "id": 67890,
+    "name": "Test User 2",
+    "email_address": "test2@example.com",
+    "avatar_url": "https://example.com/avatar2.jpg",
+    "title": "Manager",
+    "created_at": "2022-01-03T12:00:00.0000Z",
+    "updated_at": "2022-01-04T12:00:00.0000Z"
+  }
+]
+
+=============project.json===============
+{
+  "id": 2085958499,
+  "name": "The Leto Laptop",
+  "description": "Laptop product launch.",
+  "app_url": "https://3.basecamp.com/195539477/projects/2085958499",
+  "status": "active",
+  "dock": [
+    {
+      "id": 1069479338,
+      "title": "Message Board",
+      "name": "message_board",
+      "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/message_boards/1069479338",
+      "url": "https://3.basecampapi.com/195539477/buckets/2085958499/message_boards/1069479338.json"
+    },
+    {
+      "id": 1069479339,
+      "title": "To-dos",
+      "name": "todoset",
+      "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/todosets/1069479339",
+      "url": "https://3.basecampapi.com/195539477/buckets/2085958499/todosets/1069479339.json"
+    },
+    {
+      "id": 1069479340,
+      "title": "Docs & Files",
+      "name": "vault",
+      "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/vaults/1069479340",
+      "url": "https://3.basecampapi.com/195539477/buckets/2085958499/vaults/1069479340.json"
+    },
+    {
+      "id": 1069479341,
+      "title": "Campfire",
+      "name": "chat",
+      "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/chats/1069479341",
+      "url": "https://3.basecampapi.com/195539477/buckets/2085958499/chats/1069479341.json"
+    },
+    {
+      "id": 1069479342,
+      "title": "Schedule",
+      "name": "schedule",
+      "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/schedules/1069479342",
+      "url": "https://3.basecampapi.com/195539477/buckets/2085958499/schedules/1069479342.json"
+    },
+    {
+      "id": 1069479343,
+      "title": "Automatic Check-ins",
+      "name": "questionnaire",
+      "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/questionnaires/1069479343",
+      "url": "https://3.basecampapi.com/195539477/buckets/2085958499/questionnaires/1069479343.json"
+    },
+    {
+      "id": 1069479344,
+      "title": "Email Forwards",
+      "name": "inbox",
+      "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/inboxes/1069479344",
+      "url": "https://3.basecampapi.com/195539477/buckets/2085958499/inboxes/1069479344.json"
+    },
+    {
+      "id": 1069479345,
+      "title": "Card Table",
+      "name": "kanban_board",
+      "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/card_tables/1069479345",
+      "url": "https://3.basecampapi.com/195539477/buckets/2085958499/card_tables/1069479345.json"
+    }
+  ]
+}
+
+=============projects.json===============
+[
+  {
+    "id": 2085958499,
+    "name": "The Leto Laptop",
+    "description": "Laptop product launch.",
+    "app_url": "https://3.basecamp.com/195539477/projects/2085958499",
+    "status": "active",
+    "dock": [
+      {
+        "id": 1069479338,
+        "title": "Message Board",
+        "name": "message_board",
+        "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/message_boards/1069479338",
+        "url": "https://3.basecampapi.com/195539477/buckets/2085958499/message_boards/1069479338.json"
+      },
+      {
+        "id": 1069479339,
+        "title": "To-dos",
+        "name": "todoset",
+        "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/todosets/1069479339",
+        "url": "https://3.basecampapi.com/195539477/buckets/2085958499/todosets/1069479339.json"
+      },
+      {
+        "id": 1069479340,
+        "title": "Docs & Files",
+        "name": "vault",
+        "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/vaults/1069479340",
+        "url": "https://3.basecampapi.com/195539477/buckets/2085958499/vaults/1069479340.json"
+      },
+      {
+        "id": 1069479341,
+        "title": "Campfire",
+        "name": "chat",
+        "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/chats/1069479341",
+        "url": "https://3.basecampapi.com/195539477/buckets/2085958499/chats/1069479341.json"
+      },
+      {
+        "id": 1069479342,
+        "title": "Schedule",
+        "name": "schedule",
+        "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/schedules/1069479342",
+        "url": "https://3.basecampapi.com/195539477/buckets/2085958499/schedules/1069479342.json"
+      },
+      {
+        "id": 1069479343,
+        "title": "Automatic Check-ins",
+        "name": "questionnaire",
+        "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/questionnaires/1069479343",
+        "url": "https://3.basecampapi.com/195539477/buckets/2085958499/questionnaires/1069479343.json"
+      },
+      {
+        "id": 1069479344,
+        "title": "Email Forwards",
+        "name": "inbox",
+        "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/inboxes/1069479344",
+        "url": "https://3.basecampapi.com/195539477/buckets/2085958499/inboxes/1069479344.json"
+      },
+      {
+        "id": 1069479345,
+        "title": "Card Table",
+        "name": "kanban_board",
+        "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/card_tables/1069479345",
+        "url": "https://3.basecampapi.com/195539477/buckets/2085958499/card_tables/1069479345.json"
+      }
+    ]
+  },
+  {
+    "id": 2085958500,
+    "name": "The Leto Locator",
+    "description": "New software and hardware built for locating and securing Leto products.",
+    "app_url": "https://3.basecamp.com/195539477/projects/2085958500",
+    "status": "active",
+    "dock": [
+      {
+        "id": 1069479551,
+        "title": "Message Board",
+        "name": "message_board",
+        "app_url": "https://3.basecamp.com/195539477/buckets/2085958500/message_boards/1069479551",
+        "url": "https://3.basecampapi.com/195539477/buckets/2085958500/message_boards/1069479551.json"
+      },
+      {
+        "id": 1069479552,
+        "title": "To-dos",
+        "name": "todoset",
+        "app_url": "https://3.basecamp.com/195539477/buckets/2085958500/todosets/1069479552",
+        "url": "https://3.basecampapi.com/195539477/buckets/2085958500/todosets/1069479552.json"
+      },
+      {
+        "id": 1069479553,
+        "title": "Docs & Files",
+        "name": "vault",
+        "app_url": "https://3.basecamp.com/195539477/buckets/2085958500/vaults/1069479553",
+        "url": "https://3.basecampapi.com/195539477/buckets/2085958500/vaults/1069479553.json"
+      },
+      {
+        "id": 1069479554,
+        "title": "Campfire",
+        "name": "chat",
+        "app_url": "https://3.basecamp.com/195539477/buckets/2085958500/chats/1069479554",
+        "url": "https://3.basecampapi.com/195539477/buckets/2085958500/chats/1069479554.json"
+      },
+      {
+        "id": 1069479555,
+        "title": "Schedule",
+        "name": "schedule",
+        "app_url": "https://3.basecamp.com/195539477/buckets/2085958500/schedules/1069479555",
+        "url": "https://3.basecampapi.com/195539477/buckets/2085958500/schedules/1069479555.json"
+      },
+      {
+        "id": 1069479556,
+        "title": "Automatic Check-ins",
+        "name": "questionnaire",
+        "app_url": "https://3.basecamp.com/195539477/buckets/2085958500/questionnaires/1069479556",
+        "url": "https://3.basecampapi.com/195539477/buckets/2085958500/questionnaires/1069479556.json"
+      },
+      {
+        "id": 1069479557,
+        "title": "Email Forwards",
+        "name": "inbox",
+        "app_url": "https://3.basecamp.com/195539477/buckets/2085958500/inboxes/1069479557",
+        "url": "https://3.basecampapi.com/195539477/buckets/2085958500/inboxes/1069479557.json"
+      },
+      {
+        "id": 1069479558,
+        "title": "Card Table",
+        "name": "kanban_board",
+        "app_url": "https://3.basecamp.com/195539477/buckets/2085958500/card_tables/1069479558",
+        "url": "https://3.basecampapi.com/195539477/buckets/2085958500/card_tables/1069479558.json"
+      }
+    ]
+  }
+]
+
+=============todolist.json===============
+{
+  "id": 1069479369,
+  "name": "Background and research",
+  "title": "Background and research",
+  "description": "",
+  "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/todolists/1069479369",
+  "parent": {
+    "id": 1069479339,
+    "title": "To-dos",
+    "url": "https://3.basecampapi.com/195539477/buckets/2085958499/todosets/1069479339.json",
+    "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/todosets/1069479339"
+  },
+  "bucket": { "id": 2085958499, "name": "The Leto Laptop" },
+  "creator": {
+    "id": 1049715923,
+    "name": "Andrew Wong",
+    "email_address": "andrew@honchodesign.com",
+    "avatar_url": "https://3.basecamp-static.com/195539477/people/BAhpBNNkkT4=--e3c2676dde30e7c13f87642e3a3dd46ad657f731/avatar?v=1",
+    "title": "Senior Branding Strategist",
+    "created_at": "2022-11-22T08:23:22.0170Z",
+    "updated_at": "2022-11-22T08:23:22.0170Z"
+  }
+}
+
+=============todolists.json===============
+[
+  {
+    "id": 1069479520,
+    "name": "Strategy ideas",
+    "title": "Strategy ideas",
+    "description": "",
+    "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/todolists/1069479520",
+    "parent": {
+      "id": 1069479339,
+      "title": "To-dos",
+      "url": "https://3.basecampapi.com/195539477/buckets/2085958499/todosets/1069479339.json",
+      "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/todosets/1069479339"
+    },
+    "bucket": { "id": 2085958499, "name": "The Leto Laptop" },
+    "creator": {
+      "id": 1049715915,
+      "name": "Annie Bryan",
+      "email_address": "annie@honchodesign.com",
+      "avatar_url": "https://3.basecamp-static.com/195539477/people/BAhpBMtkkT4=--9927c47a4cbee30a7f9aea667882496aba799149/avatar?v=1",
+      "title": "Central Markets Manager",
+      "created_at": "2022-11-22T08:23:21.9110Z",
+      "updated_at": "2022-11-22T08:23:21.9110Z"
+    }
+  }
+]
+
+=============todo.json===============
+{
+  "id": 1069479523,
+  "title": "Clear and simple UI",
+  "description": "",
+  "url": "https://3.basecampapi.com/195539477/buckets/2085958499/todos/1069479523.json",
+  "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/todos/1069479523",
+  "created_at": "2022-12-11T13:25:58.1690Z",
+  "updated_at": "2022-11-22T17:56:30.8040Z",
+  "parent": {
+    "id": 1069479520,
+    "title": "Strategy ideas",
+    "url": "https://3.basecampapi.com/195539477/buckets/2085958499/todolists/1069479520.json",
+    "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/todolists/1069479520"
+  },
+  "bucket": { "id": 2085958499, "name": "The Leto Laptop" },
+  "completed": true,
+  "creator": {
+    "id": 1049715915,
+    "name": "Annie Bryan",
+    "email_address": "annie@honchodesign.com",
+    "avatar_url": "https://3.basecamp-static.com/195539477/people/BAhpBMtkkT4=--9927c47a4cbee30a7f9aea667882496aba799149/avatar?v=1",
+    "title": "Central Markets Manager",
+    "created_at": "2022-11-22T08:23:21.9110Z",
+    "updated_at": "2022-11-22T08:23:21.9110Z"
+  },
+  "assignees": [
+    {
+      "id": 1049715937,
+      "name": "Sharon Bradford",
+      "email_address": "sharon@honchodesign.com",
+      "avatar_url": "https://3.basecamp-static.com/195539477/people/BAhpBOFkkT4=--560f7fa1330d4341e3c089226bcb7fefb82dbfd1/avatar?v=1",
+      "title": "Principal Branding Administrator",
+      "created_at": "2022-11-22T08:23:22.2310Z",
+      "updated_at": "2022-11-22T08:23:22.2310Z"
+    }
+  ],
+  "completion_subscribers": [
+    {
+      "id": 1049715937,
+      "name": "Sharon Bradford",
+      "email_address": "sharon@honchodesign.com",
+      "avatar_url": "https://3.basecamp-static.com/195539477/people/BAhpBOFkkT4=--560f7fa1330d4341e3c089226bcb7fefb82dbfd1/avatar?v=1",
+      "title": "Principal Branding Administrator",
+      "created_at": "2022-11-22T08:23:22.2310Z",
+      "updated_at": "2022-11-22T08:23:22.2310Z"
+    }
+  ],
+  "comments_count": 0
+}
+
+=============todos.json===============
+[
+  {
+    "id": 1069479521,
+    "title": "Go cutting edge: iOS8 and Android 4.5 only",
+    "description": "",
+    "url": "https://3.basecampapi.com/195539477/buckets/2085958499/todos/1069479521.json",
+    "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/todos/1069479521",
+    "created_at": "2022-12-11T12:43:58.1690Z",
+    "updated_at": "2022-12-11T12:43:58.1690Z",
+    "parent": {
+      "id": 1069479520,
+      "title": "Strategy ideas",
+      "url": "https://3.basecampapi.com/195539477/buckets/2085958499/todolists/1069479520.json",
+      "app_url": "https://3.basecamp.com/195539477/buckets/2085958499/todolists/1069479520"
+    },
+    "bucket": { "id": 2085958499, "name": "The Leto Laptop" },
+    "completed": false,
+    "creator": {
+      "id": 1049715915,
+      "name": "Annie Bryan",
+      "email_address": "annie@honchodesign.com",
+      "avatar_url": "https://3.basecamp-static.com/195539477/people/BAhpBMtkkT4=--9927c47a4cbee30a7f9aea667882496aba799149/avatar?v=1",
+      "title": "Central Markets Manager",
+      "created_at": "2022-11-22T08:23:21.9110Z",
+      "updated_at": "2022-11-22T08:23:21.9110Z"
+    },
+    "assignees": [],
+    "completion_subscribers": [],
+    "comments_count": 0
+  }
+]

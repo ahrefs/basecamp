@@ -1,0 +1,16 @@
+(library
+ (name basecamp)
+ (libraries
+  curl
+  containers
+  devkit
+  lwt
+  lwt.unix
+  melange-json-native
+  ptime
+  uri
+  re
+  stringext
+  yojson)
+ (preprocess
+  (pps ppx_deriving.make lwt_ppx melange-json-native.ppx)))

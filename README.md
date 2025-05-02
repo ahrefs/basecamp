@@ -110,24 +110,7 @@ dune build
 
 ### Running Tests
 
-```bash
-dune runtest    # test models
-```
-
-To run tests with a real Basecamp account, create a `test_client.json` file with your credentials:
-
-```json
-{
-  "organization_id": 123456,
-  "client_id": "your_client_id",
-  "client_secret": "your_client_secret",
-  "refresh_token": "your_refresh_token"
-}
-```
-
-```bash
-cd test && dune exec -- ./test_client.exe
-```
+`make -C test` Or see [/test](https://github.com/ahrefs/basecamp/blob/main/test/README.md)
 
 ## License
 

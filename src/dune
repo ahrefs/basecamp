@@ -1,5 +1,5 @@
 (library
- (name basecamp)
+ (public_name basecamp)
  (libraries
   curl
   containers
